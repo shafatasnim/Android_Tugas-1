@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tugas-1</string>
+    <string name="shafa_tasnim_narulita">Shafa Tasnim Narulita</string>
+    <string name="_172">172</string>
+    <string name="_16">16</string>
+    <string name="follow">Follow</string>
+    <string name="teknik_informatika">Teknik Informatika</string>
+    <string name="mahasiswa_politap">Mahasiswa POLITAP</string>
+    <string name="send_message">Send Message</string>
+    <string name="_192">192</string>
+    <string name="postingan">Postingan</string>
+    <string name="pengikut">Pengikut</string>
+    <string name="mengikuti">Mengikuti</string>
+</resources>
